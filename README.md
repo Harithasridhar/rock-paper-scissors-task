@@ -35,4 +35,5 @@ Scissors beats Paper
 Paper beats Rock
 
 Email: harithasridhar30@gmail.com
+
 GitHub: Harithasridhar
