@@ -1,4 +1,4 @@
-##Rock - Paper - Scissors Task
+Rock - Paper - Scissors Task
 
 This project is based on Spring boot application and backed by Swagger API documentation
 
@@ -12,7 +12,7 @@ Web Application configuration
 Web Application is running on port 9219
 You can change the configuration in application.properties
 
-Steps to run the project
+Steps to run the project:
 
 Prerequisite:
 
