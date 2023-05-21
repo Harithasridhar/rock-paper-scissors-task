@@ -11,8 +11,10 @@ Swagger : RESTful Documentation
 Web Application configuration
 Web Application is running on port 9219
 You can change the configuration in application.properties
+
 Steps to run the project
-Prerequisite
+
+Prerequisite:
 
 Maven
 Java 8 or higher
@@ -25,9 +27,12 @@ Maven will install all the dependencies and followed by run the application
 To test the application:
 
 http://localhost:9219/swagger-ui.html
-Architectural points and Terminologies used in the project
-Game rules
+
+Game rules:
 
 Rock beats Scissors
 Scissors beats Paper
 Paper beats Rock
+
+Email: harithasridhar30@gmail.com
+GitHub: Harithasridhar
