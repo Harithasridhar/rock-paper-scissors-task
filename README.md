@@ -2,10 +2,10 @@ Rock - Paper - Scissors Task
 
 This project is based on Spring boot application and backed by Swagger API documentation
 
-Technology used
+Technology used: 
+
 Java 8 : programming language
 Spring boot : Web application
-H2 : In-Memory Database
 Maven : Building project
 Swagger : RESTful Documentation
 Web Application configuration
