@@ -1,2 +1,33 @@
-# rock-paper-scissors-task
-This repository contains a Rock Paper Scissors game based on Spring boot application backed by Swagger API documentation
+##Rock - Paper - Scissors Task
+
+This project is based on Spring boot application and backed by Swagger API documentation
+
+Technology used
+Java 8 : programming language
+Spring boot : Web application
+H2 : In-Memory Database
+Maven : Building project
+Swagger : RESTful Documentation
+Web Application configuration
+Web Application is running on port 9219
+You can change the configuration in application.properties
+Steps to run the project
+Prerequisite
+
+Maven
+Java 8 or higher
+
+Start the application through following command:
+
+mvn clean install spring-boot:run 
+Maven will install all the dependencies and followed by run the application
+
+To test the application:
+
+http://localhost:9219/swagger-ui.html
+Architectural points and Terminologies used in the project
+Game rules
+
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
